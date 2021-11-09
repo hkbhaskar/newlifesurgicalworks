@@ -1,0 +1,174 @@
+#facebox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  text-align: left;
+}
+
+
+#facebox .popup{
+  position:relative; top:100px;
+  box-shadow: 0 5px 15px rgba(0,0,0,.5);
+
+
+  border-radius: 6px;
+}
+
+#facebox .content {
+  display:table;
+  width: 560px;
+  background: #fff;
+  padding:15px;
+   border-radius: 6px;
+}
+
+#facebox .content > p:first-child{
+  margin-top:0;
+}
+#facebox .content > p:last-child{
+  margin-bottom:0;
+}
+
+#facebox .close{
+  position:absolute;
+  top:5px;
+  right:5px;
+  padding:2px;
+  background:#fff;
+}
+#facebox .close img{
+  opacity:0.3;
+}
+#facebox .close:hover img{
+  opacity:1.0;
+}
+
+#facebox .loading {
+  text-align: center;
+}
+
+#facebox .image {
+  text-align: center;
+}
+
+#facebox img {
+  border: 0;
+  margin: 0;
+}
+
+#facebox_overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height:100%;
+  width:100%;
+}
+
+.facebox_hide {
+  z-index:-100;
+}
+
+.facebox_overlayBG {
+  background-color: #000;
+  z-index: 99;
+}
+
+
+
+#facebox2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  text-align: left;
+}
+
+
+#facebox2 .popup{
+  position:relative; top:100px;
+  border:3px solid #ccc; height:100%;
+  -webkit-box-shadow:0 0 18px rgba(0,0,0,0.4);
+  -moz-box-shadow:0 0 18px rgba(0,0,0,0.4);
+  box-shadow:0 0 18px rgba(0,0,0,0.4);
+}
+
+#facebox2 .content {
+  display:table;
+  width: 370px;
+  background: #fff;
+}
+
+#facebox2 .content2 > p:first-child2{
+  margin-top:0;
+}
+#facebox2 .content2 > p:last-child2{
+  margin-bottom:0;
+}
+
+#facebox2 .close2{
+  position:absolute;
+  top:5px;
+  right:5px;
+  padding:2px;
+  background:#fff;
+}
+#facebox2 .close2 img{
+  opacity:0.3;
+}
+#facebox2 .close2:hover img{
+  opacity:1.0;
+}
+
+#facebox2 .loading2 {
+  text-align: center;
+}
+
+#facebox2 .image {
+  text-align: center;
+}
+
+#facebox2 img {
+  border: 0;
+  margin: 0;
+}
+
+#facebox_overlay2 {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height:100%;
+  width:100%;
+}
+
+.facebox_hide2 {
+  z-index:-100;
+}
+
+.facebox_overlayBG2 {
+  background-color: #000;
+  z-index: 99;
+}
+
+
+@media only screen and (max-width : 600px) {
+#facebox { width:100%;}
+#facebox[style] {left:0px !important;
+     }
+#facebox .content { width:100%; height:auto;}
+.hf {
+    background: none;
+    color: #1165AB;
+    font-size: 18px;
+    font-family: Tahoma;
+    height: auto;
+    float: none;
+    margin: 8px auto 0px;
+    padding: 6px 0px 5px 0px;
+    width: 100%; line-height:18px; font-weight:normal;
+}
+#facebox div img {
+    width: 100%;
+    height: auto;
+}
+}
