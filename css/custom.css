@@ -96,7 +96,7 @@ a:focus, a:hover {
   bottom: 10px;
 }
 #fade-quote-carousel.carousel .carousel-indicators > li {
-  background-color: #0270b8;
+  background-color: #F62217;
   border: none;
 }
 #fade-quote-carousel blockquote {
@@ -118,7 +118,7 @@ a:focus, a:hover {
     border-color: #fff!important;
 }
 .navbar-toggle{
-    background-color: #008dd0;
+    background-color: #F62217;
 }
 
 .nav>li>a {
@@ -142,7 +142,7 @@ a:focus, a:hover {
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
     color: #fff;
-    background-color: #0c638e;
+    background-color: #F62217;
 }
 .navbar-inverse .navbar-nav>li>a {
     color: #ffffff;
@@ -161,8 +161,8 @@ a:focus, a:hover {
 # Navbar Section
 --------------------------------------------------------------*/
 .navbar-inverse {
-    background-color: #0c638e;
-    border-color: #0c638e;
+    background-color: #F62217;
+    border-color: #F62217;
 }
 
 .navbar-brand {
@@ -218,7 +218,7 @@ a:focus, a:hover {
 }
 .multi-column-dropdown li a:hover {
     text-decoration: none;
-    color: #0c638e;
+    color: #F62217;
     /* background-color: #f4f4f4; */
 }
 @media (max-width: 767px) {
@@ -264,7 +264,7 @@ a:focus, a:hover {
 
 #main-slider .carousel .btn-slide {
     padding: 8px 20px;
-    background: #0089d0;
+    background: #F62217;
     color: #fff;
     border-radius: 4px;
     margin-top: 25px;
@@ -329,7 +329,7 @@ a:focus, a:hover {
 #main-slider .next {
     position: absolute;
     top: 40%;
-    background-color: #0089d0;
+    background-color: #F62217;
     color: #fff;
     display: inline-block;
     margin-top: 30px;
@@ -383,8 +383,8 @@ a:focus, a:hover {
     width: 24px;
     height: 24px;
     border-radius: 100%;
-    background: #0089d0;
-    border: 1px solid #0089d0;
+    background: #F62217;
+    border: 1px solid #F62217;
     left: -3px;
     top: -3px;
 }
@@ -424,7 +424,7 @@ a:focus, a:hover {
 .products .thumb img{width:100%;-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
 .products:hover img{transform:scale(1.1)}
 .products:hover h4{
-    color:#3898f8;
+    color:#F62217;
     text-decoration: none;}
 
 .products h4{
@@ -445,7 +445,7 @@ a:focus, a:hover {
     text-decoration: none;}
 	
 .products:hover h5{
-    color:#3898f8;
+    color:#F62217;
     text-decoration: none;}	
 		
 .products a{color:#414042;}
@@ -471,8 +471,8 @@ margin-left:20px;
 }
 .btn-narang {
     color: #fff;
-    background-color: #3985cf;
-    border-color: #3985cf;
+    background-color: #F62217;
+    border-color: #F62217;
 }
 .btn-narang:hover {
     color: #fff;
@@ -489,11 +489,11 @@ margin-left:20px;
     background:url(../img/counter-bg.jpg) center;background-size:cover}
 .counter-area .overlay-bg{background:rgba(0,0,0,0.7)}
 .single-counter{text-align:center}
-.single-counter h2{color:#fff;background:#3898f8;width:100px;height:100px;border-radius:50px;padding:40px 0;text-align:center;font-size:24px;display:inline-block;outline:2px solid black}
+.single-counter h2{color:#fff;background:#F62217;width:100px;height:100px;border-radius:50px;padding:40px 0;text-align:center;font-size:24px;display:inline-block;outline:2px solid black}
 .single-counter p{color:#fff;font-weight:600px;margin-top:20px;font-size:18px}
 @media (max-width: 960px){.single-counter{margin-bottom:50px}}
-.circle{border:1px solid #3898f8;border-radius:68px;display:inline-block}
-.inner{background-color:#3898f8;border-radius:50px;margin:24px;height:90px;width:90px}
+.circle{border:1px solid #F62217;border-radius:68px;display:inline-block}
+.inner{background-color:#F62217;border-radius:50px;margin:24px;height:90px;width:90px}
 .single-counter h5{margin-top:-90px;font-size:24px;color:#fff}
 .single-counter p{font-size:18px;padding-top:60px}
 .relative {
@@ -526,12 +526,12 @@ margin-left:20px;
 }
 .footer-area .footer-nav li{margin-top:5px}
 .footer-area .footer-nav li a{color:#fff}
-.footer-area .footer-nav li a:hover{color:#3898f8}
+.footer-area .footer-nav li a:hover{color:#F62217}
 .footer-area h6{color:#fff;margin-bottom:10px;font-size:18px;font-weight:600}
 
-.copy-right-text i,.copy-right-text a{color:#3898f8}
+.copy-right-text i,.copy-right-text a{color:#F62217}
 
-.footer-bottom{padding-top:0px}.footer-text a,.footer-text i{color:#3898f8}
+.footer-bottom{padding-top:0px}.footer-text a,.footer-text i{color:#F62217}
 
 .footer-tag{background:#201d1e;padding-top:1px}
 .footer-tag h1 h2 h3 h4 h5 h6{
@@ -753,8 +753,8 @@ background: linear-gradient(90deg, rgba(135,64,175,1) 0%, rgba(187,57,130,1) 31%
 }
 .btn-query {
     color: #fff;
-    background-color: #3985cf;
-    border-color: #3985cf;
+    background-color: #F62217;
+    border-color: #F62217;
     padding: 9px 45px;
     border-radius: 0px;
     font-size: 20px;
@@ -778,7 +778,7 @@ background: linear-gradient(90deg, rgba(135,64,175,1) 0%, rgba(187,57,130,1) 31%
 .countdown-wrap .countdown-left p{margin-bottom:0}
 @media (max-width: 991px){.countdown-wrap .countdown-left{margin-bottom:30px}}
 .countdown-wrap .countdown-right{text-align:center}
-.countdown-wrap .countdown-right .right-wrap{background-color:#3898f8}
+.countdown-wrap .countdown-right .right-wrap{background-color:#F62217}
 .countdown-wrap .countdown-right .col-md-3{padding-top:30px;padding-bottom:20px;color:#fff; }
 .countdown-wrap .countdown-right .col-md-3 span{font-size:36px;}
 @media (max-width: 414px){.countdown-wrap .countdown-right .col{font-size:10px}.countdown-wrap .countdown-right .col span{font-size:20px}}
@@ -790,8 +790,8 @@ background: linear-gradient(90deg, rgba(135,64,175,1) 0%, rgba(187,57,130,1) 31%
 .single-service h4{padding:20px 0;-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
 .single-service h5{padding:20px 0;-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
 .single-service:hover{cursor:pointer}
-.single-service:hover h4{color:#3898f8}
-.single-service:hover h5{color:#3898f8}
+.single-service:hover h4{color:#F62217}
+.single-service:hover h5{color:#F62217}
 
 
 /*--------------------------------------------------------------
@@ -1164,9 +1164,9 @@ background: linear-gradient(90deg, rgba(135,64,175,1) 0%, rgba(187,57,130,1) 31%
     margin-top: 8px;
     margin-right: 0px;
     margin-bottom: 8px;
-    background-color: #008dd0;
+    background-color: #F62217;
     background-image: none;
-    border: 1px solid #008dd0;
+    border: 1px solid #F62217;
     border-radius: 4px;
 }
 
@@ -1198,7 +1198,7 @@ background: linear-gradient(90deg, rgba(135,64,175,1) 0%, rgba(187,57,130,1) 31%
 
 
 .dark-blue {
-    background: #3985cf;
+    background: #F62217;
 	color:#fff;
 }
 
